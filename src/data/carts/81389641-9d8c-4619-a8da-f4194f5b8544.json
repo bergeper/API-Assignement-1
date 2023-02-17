@@ -1,0 +1,16 @@
+{
+  "shoppingCartId": "81389641-9d8c-4619-a8da-f4194f5b8544",
+  "products": [
+    {
+      "articleId": "0a0c9293-d0c1-406b-a85d-aeae39a9b252",
+      "articleName": "Toapapper",
+      "articlePrice": 200
+    },
+    {
+      "articleId": "0e97d55d-c304-4f19-8020-4bbbf81800cc",
+      "articleName": "Tvål",
+      "articlePrice": 250
+    }
+  ],
+  "totalAmount": 450
+}

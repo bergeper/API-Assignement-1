@@ -1,0 +1,21 @@
+{
+  "shoppingCartId": "7e9efccd-447e-4eec-a19f-7a8af1e27517",
+  "products": [
+    {
+      "articleId": "0e97d55d-c304-4f19-8020-4bbbf81800cc",
+      "articleName": "Tvål",
+      "articlePrice": 250
+    },
+    {
+      "articleId": "3ad07e4e-e3a4-428a-b8e2-a47dde2f784d",
+      "articleName": "Mopp",
+      "articlePrice": 300
+    },
+    {
+      "articleId": "ca30ac80-556b-4c8d-a867-74d303ad660c",
+      "articleName": "Disktrasa",
+      "articlePrice": 50
+    }
+  ],
+  "totalAmount": 600
+}
