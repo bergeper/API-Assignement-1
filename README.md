@@ -2,6 +2,6 @@
 
 ## Technologies
 
-GraphQL
-NodeJS
-Apollo Server
+* GraphQL
+* NodeJS
+* Apollo Server
